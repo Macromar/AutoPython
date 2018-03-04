@@ -1,0 +1,6 @@
+user = ""
+password = ""
+no_friends_user = ""
+no_friends_password = ""
+blocked_friends_user = ""
+blocked_friends_password = ""
